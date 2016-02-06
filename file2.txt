@@ -1,0 +1,14 @@
+                    <ul class="nav nav-pills nav-top">
+                        <li>
+                            <a href="mailto:sales@testinsane.com">
+                                <i class="fa fa-envelope">
+                                </i>sales@testinsane.com
+                            </a>
+                        </li>
+                        <li class="phone">
+                            <span>
+                                <i class="fa fa-phone"></i>(+91) 98809
+                                52643
+                            </span>
+                        </li>
+                    </ul>
